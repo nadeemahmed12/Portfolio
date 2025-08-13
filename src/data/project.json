@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Real-Time Chat Application",
+    "imageSrc": "/assets/projects/chat_app.png",
+    "description": "Developed a dynamic chat app with secure, real-time messaging capabilities.",
+    "skills": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "MongoDB", "JWT", "Hashing"],
+    "demo": "https://updated-chat-app-69n8.onrender.com",
+    "source": "https://github.com/nadeemahmed12/chat_app"
+  },
+  {
+    "title": "Short URL",
+    "imageSrc": "/assets/projects/short_url.png",
+    "description": "Developed a full stack web application for shortening URLs, featuring a user-friendly interface and efficient backend operation.",
+    "skills": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "MongoDB"],
+    "demo": "https://urlshortner-updated.onrender.com/",
+    "source": "https://github.com/nadeemahmed12/urlshortner_updated"
+  },
+  {
+  "title": "Quiz Application",
+  "imageSrc": "/assets/projects/quiz_app.png",
+  "description": "A full-stack quiz platform with timed quizzes, score calculation, and a leaderboard. Built using React.js for the frontend and Node.js, Express.js, and MongoDB for the backend.",
+  "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "CSS"],
+  "demo": "https://quiz-app-frontend-zsxe.onrender.com",
+  "source": "https://github.com/nadeemahmed12/quiz_app"
+}
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Teaching Assistant",
+    "organisation": "Coding Blocks Noida",
+    "startDate": "Aug, 2024",
+    "endDate": "Apr, 2025",
+    "experiences": [
+      "Guided 100+ students in mastering Java Data Structures and Algorithms",
+      "Reviewed 1000+ lines of student code weekly with actionable feedback"
+    ],
+    "imageSrc": "assets/history/codingblock.png"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "DUCAT – Noida",
+    "startDate": "Jan, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Built dynamic MERN stack web applications with authentication and RESTful APIs",
+      "Integrated MongoDB Atlas and designed schemas using Mongoose"
+    ],
+    "imageSrc": "assets/history/ducat.png"
+  }
+]
